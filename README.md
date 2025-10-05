@@ -19,7 +19,7 @@ The project follows a structured Power BI approach involving robust data cleanin
 
 ## Key Power BI Highlights
 
-* **KPI Development:** Created over 10 KPIs including HighValueThreshold, Total Transactions, Average Balance, and CreditScore Segmentation.
+* **KPI Development:** Created over 15 KPIs including HighValueThreshold, Total Transactions, Average Balance, and CreditScore Segmentation.
 * **Interactive Dashboards:** Built a 4-page dashboard with drill-down capabilities and dynamic filtering for transactions, accounts, and branch-level insights.
 * **Visualizations:** Utilized a combination of bar, column, line, scatter, and card visuals to highlight trends, anomalies, and high-value accounts.
 * **Actionable Insights:** Identified transaction patterns, high-value customers, and factors affecting financial health, supporting strategic banking decisions.
